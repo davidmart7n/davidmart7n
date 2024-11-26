@@ -11,5 +11,10 @@ I’m a backend developer specialized in Java and Spring Framework, passionate a
 - Udemy, YouTube, and ChatGPT for continuous learning.
 - I’m always looking for interesting projects and collaborations!
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/david-mart%C3%ADn-encuentra-47b72623a/))
+
+
+
 
 And don't leave my profile without remembering nothing can stop you! 🚀
