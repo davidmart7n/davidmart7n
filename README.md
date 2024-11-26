@@ -12,7 +12,7 @@ I’m a backend developer specialized in Java and Spring Framework, passionate a
 - I’m always looking for interesting projects and collaborations!
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/david-mart%C3%ADn-encuentra-47b72623a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/david-mart%C3%ADn-encuentra-47b72623a/))
 
 
 
