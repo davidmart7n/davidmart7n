@@ -1,6 +1,6 @@
 # Greetings from Barcelona, I'm David Martín! 👋
 
-I’m a backend developer specialized in Java and Spring Framework, passionate about creating scalable and efficient solutions. I love learning new technologies and am constantly exploring tools and languages to improve my skills.
+I’m a backend developer specialized in Java, Spring and Angular, passionate about creating scalable and efficient solutions. I love learning new technologies and am constantly exploring tools and languages to improve my skills.
 
 ## Currently, I'm focusing on:
 - Going deeper developing robust backend applications with Java and Spring.
