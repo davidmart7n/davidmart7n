@@ -9,7 +9,7 @@ I’m a backend developer specialized in Java, Spring and Angular, passionate ab
 
 ## My favorite resources:
 - Udemy, YouTube, and ChatGPT for continuous learning.
-- I’m always looking for interesting projects and collaborations!
+- I’m always looking for improve in all areas
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mart%C3%ADn-encuentra-47b72623a/)
