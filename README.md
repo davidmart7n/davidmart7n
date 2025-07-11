@@ -57,6 +57,8 @@ Reach out if you're interested in:
 
 > 🧠 I'm always open to conversations — whether you're a developer, a founder, or just curious about what’s possible.
 > 💬 I regularly share what I'm building and learning over on [LinkedIn] (https://www.linkedin.com/in/david-martín-encuentra-47b72623a) — feel free to follow along.
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mart%C3%ADn-encuentra-47b72623a/)
 
 
