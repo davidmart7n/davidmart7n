@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David — Full-Stack Developer @ Maen Studios | Builder | Dreamer
+# 👋 Hi, I'm David — Full-Stack Developer @ Maen Studios | Dreamer, Builder & Hard Worker
 
 Welcome to my GitHub! I'm a passionate **software developer** focused on **web technologies**, **AI integration**, and building tools that empower people and businesses.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **software developer** focused on **web t
 
 ## 🚀 What I do
 
-- 🧠 I build full-stack applications using **React**, **Node.js**, **Firebase**, and **Spring Boot**.
+- 🧠 I build full-stack applications using **Angular**, **React**, **Spring Boot**, **Node.js** and **Firebase**.
 - 🏗️ I work at **Maen Studios**, where we develop intelligent platforms, automation tools, and digital experiences for creative agencies and entrepreneurs.
 - 📤 I strongly believe in **sharing everything I learn** — from internal tools to public codebases and ideas in progress.
 - 🎥 I also create **tech content** around AI and development for the dev community.
