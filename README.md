@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm a passionate **software developer** focused on **web t
 
 ## 🌱 Currently working on
 
-- 🛠 **AgencyX** – a professional productivity platform for agencies and marketing teams.
-- 🤖 **CEOX** – an AI-powered reporting system using LLMs like Gemini.
+- 🛠 **AgencyX** – a professional productivity CRM for Maen Studios as well as other agencies and marketing teams.
+- 🤖 **CEOX** – an AI-powered reporting and Data Analysis system using LLMs like Gemini.
 - 🔁 Releasing public versions of my tools to inspire and help other developers.
 - 🧪 Always prototyping new ideas — small utilities, AI assistants, dashboards...
 
@@ -24,10 +24,16 @@ Welcome to my GitHub! I'm a passionate **software developer** focused on **web t
 
 ## 🧠 Tech I love working with
 
-- **Frontend**: React, Angular, Tailwind CSS, Vite, TypeScript  
-- **Backend**: Node.js, Express, Spring Boot, Firebase, Firestore  
-- **AI & Tools**: Vertex AI, OpenAI, LangChain, GitHub Actions, Docker, Figma
+- **Frontend**: Angular, React, Tailwind CSS, Vite, TypeScript/Javascript
+- **Backend**:  Spring Boot, Node.js, Firebase  
+- **AI & Tools**: Vertex AI, Sentry, GitHub Actions, Docker, Figma
 
+## 🧰 Tech Skills
+
+- 🧑‍💻 Full-Stack Development  
+- 🧱 Microservices Architecture  
+- 🔁 CI/CD Automation & DevOps  
+- 🤖 Generative AI & Cloud Services  
 ---
 
 ## 💡 Mindset
@@ -42,12 +48,15 @@ I believe in:
 
 ## 📫 Let's connect
 
-Reach out if you're into:
-- Collaboration and bold projects
-- Digital tools for agencies or small businesses
-- AI automation, consulting, or custom development
+Reach out if you're interested in:
 
-> 🧠 I share my work because I believe progress multiplies when it's open.
+- Bringing your ideas to life with technology  
+- Exploring how digital tools and AI can help you grow  
+- Collaborating on creative, useful or ambitious projects  
+- Talking about tech, productivity, or building things that matter
+
+> 🧠 I'm always open to conversations — whether you're a developer, a founder, or just curious about what’s possible.
+> 💬 I regularly share what I'm building and learning over on [LinkedIn] (https://www.linkedin.com/in/david-martín-encuentra-47b72623a) — feel free to follow along.
 
 ---
 
